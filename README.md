@@ -16,11 +16,11 @@ You may also see any lint errors in the console.
 
 ### `nodemon index.js`
 
-Launches the project's backend on [http://localhost:4040](http://localhost:4040/api/transactions), where you can see all the transactions made on your front end.\
+Launches the project's backend on [http://localhost:4040](http://localhost:4040/api/transactions), where you can see all the transactions made on your front end.
 
 ### `Connect with MongoDB atlas online`
 
-Get your transactions stored on the MongoDB [https://www.mongodb.com/products/platform/atlas-database](https://www.mongodb.com/products/platform/atlas-database).\
+Get your transactions stored on the MongoDB [https://www.mongodb.com/products/platform/atlas-database](https://www.mongodb.com/products/platform/atlas-database).
 
 ### `npm test`
 
